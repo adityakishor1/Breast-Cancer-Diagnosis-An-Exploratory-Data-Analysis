@@ -4,7 +4,7 @@ This project focuses on performing an in-depth Exploratory Data Analysis (EDA) o
 
 Through data cleaning, statistical analysis, and visualization techniques like histograms, box plots, and correlation heatmaps, this study identifies critical predictors of breast cancer. Insights from this analysis can be used for further predictive modeling and clinical decision-making. 🚀
 
-Dataset link:- https://www.kaggle.com/datasets/chrismorgan86/breast-cancer-wisconsin-original
+Dataset link(Kaggle):- https://www.kaggle.com/datasets/chrismorgan86/breast-cancer-wisconsin-original
 
 1. **Import Libraries** – Loads essential Python libraries like Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn for data analysis and visualization.  
 2. **Load and Glimpse of Dataset** – Reads the dataset and provides an initial overview using functions like `.head()`, `.info()`, and `.describe()`.  
